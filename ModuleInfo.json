@@ -2,6 +2,7 @@
   "Name": "SMG2 SimpleTutorialObj",
   "Author": "Super Hackio",
   "Description": "Simplistic custom tutorial layouts",
+  "SupportedGames": [ "SB4" ],
 
   "ModuleData": [
     {
